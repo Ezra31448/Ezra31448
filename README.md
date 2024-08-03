@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ezra Piyachanokwong</h1>
-<h3 align="center">A passionate full-stack developer from Thailand</h3>
+<h3 align="center">A passionate DokDaek Developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezra31448&label=Profile%20views&color=0e75b6&style=flat" alt="ezra31448" /> </p>
 
-- 🔭 I’m currently working on [exercise tracking](https://github.com/Ezra31448/client-mern-workshop)
+- 🔭 I’m currently working on [Merquery Bot]
 
-- 🌱 I’m currently learning **Javascript, React.JS and etc**
+- 🌱 I’m currently learning **Python, Software Testing and etc**
 
-- 🤝 I’m looking for help with [exercise tracking](https://github.com/Ezra31448/client-mern-workshop)
+- 🤝 I’m looking for help with PyautoGUI
 
 - 👨‍💻 All of my projects are available at [https://ezra31448.github.io/](https://ezra31448.github.io/)
 
-- 💬 Ask me about **React.js HTML CSS Javascript**
+- 💬 Ask me about **Life journey**
 
 - 📫 How to reach me **ezrapiya.th@gmail.com**
 
